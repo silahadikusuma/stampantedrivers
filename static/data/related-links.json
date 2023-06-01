@@ -1,0 +1,44 @@
+[
+  {
+    "id": "646a6cf6-c04e-4d19-892e-ddb79d2552d2",
+    "label": "Baby Age Calculator",
+    "link": "https://baby-age-en.vercel.app/",
+    "isLink": true
+  },
+  {
+    "id": "e40c9706-cf25-4ef8-a748-9c741c61280b",
+    "label": "Dog Age Calculator",
+    "link": "",
+    "isLink": false
+  },
+  {
+    "id": "158db849-a143-4bbc-a757-48d7f25802ca",
+    "label": "Birthday Calculator",
+    "link": "https://birthday-calculator-en.vercel.app/",
+    "isLink": true
+  },
+  {
+    "id": "627154a4-b45d-4768-9a9d-aabef64ecb44",
+    "label": "Cat Age Calculator",
+    "link": "",
+    "isLink": false
+  },
+  {
+    "id": "e114e454-ee78-43d9-ab90-14bf3e9fbe80",
+    "label": "Day Calculator",
+    "link": "",
+    "isLink": false
+  },
+  {
+    "id": "2cb27274-7182-4d9c-a96b-70a2a3a76cb1",
+    "label": "Future Age Calculator",
+    "link": "",
+    "isLink": false
+  },
+  {
+    "id": "81764443-f1f6-4c4c-ae0e-d79c4e9d99cd",
+    "label": "Zodiac Sign Calculator",
+    "link": "",
+    "isLink": false
+  }
+]

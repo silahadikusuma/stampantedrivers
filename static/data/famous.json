@@ -1,0 +1,33 @@
+[
+  {
+    "id": "4a7b5acd-d9c4-4aff-96c5-2c840354adba",
+    "name": "Hillary Clinton",
+    "title": "President of United State",
+    "url": "hillary-clinton"
+  },
+  {
+    "id": "dc4dc007-41f2-4738-b9ec-32d4ea5a3a40",
+    "name": "Donald Trump",
+    "title": "President of United State",
+    "url": "donald-trump"
+  },
+  {
+    "id": "5bce6a58-1ff7-4b61-87d4-4263fe0cc4ec",
+    "name": "Jokowi",
+    "title": "President of Indonesia",
+    "url": "jokowi"
+  },
+  {
+    "id": "322dadd8-4393-4997-a899-dc0ee7186093",
+    "name": "Salman bin Abdulaziz Al Saud",
+    "title": "King of Saudi Arabia",
+    "url": "salman-bin-abdulaziz-al-saud"
+
+  },
+  {
+    "id": "1f37d6e0-4ef3-4afe-8459-4a72446cffb9",
+    "name": "Sheikh Tamim bin Hamad Al Thani",
+    "title": "President of Qatar",
+    "url": "sheikh-tamim-bin-hamad-al-thani"
+  }
+]
